@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag179&label=Profile%20views&color=0e75b6&style=flat" alt="anurag179" /> </p>
 
-- 🔭 I’m currently working on **Fall detection System**
+- 🔭 I’m currently learning developing advanced applications on flutter
 
-- 🌱 I’m currently learning **DSA in Java and AWS cloud practitioner**
+- 🌱 I’m currently learning **DSA in Java and have completed AWS Cloud Practitioner
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anurag179?tab=repositories](https://github.com/Anurag179?tab=repositories)
 
